@@ -1,0 +1,9 @@
+{
+  "name": "url-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal single-file web proxy: paste a URL, browse the site through this server.",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
